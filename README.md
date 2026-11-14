@@ -14,7 +14,7 @@ O **InCareReg** centraliza a regulação do município:
   <!-- confira se a lista corresponde às funcionalidades reais e ajuste -->
 
 ## Minha participação
-- **Criei 100% do layout e da interface** do sistema (autoria própria)
+- **Criei parte do layout e da interface** do sistema (contribução de Lucas Bastos)
 - Desenvolvimento do **front-end** em Angular: login, telas de solicitação, fila de regulação e acompanhamento
 - Participação pontual no back-end
 
